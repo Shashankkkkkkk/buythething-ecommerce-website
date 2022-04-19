@@ -1,7 +1,7 @@
 # Buythething eCommerce Website
 📧
 
-Bythething is a fully responsive ecommerce website, maximum compatiblities in all mobile devices, built using HTML, CSS, and JavaScript.
+Buythething is a fully responsive ecommerce website, maximum compatiblities in all mobile devices, built using HTML, CSS, and JavaScript.
 
 # Demo 
 
@@ -19,7 +19,7 @@ Before you begin, ensure you have met the following requirements:
 
 #  Installing Buythething
 
-To install Bythething, follow these steps:
+To install Buythething, follow these steps:
 
 Linux and macOS:
 
