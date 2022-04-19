@@ -6,12 +6,12 @@ Buythething is a fully responsive ecommerce website, maximum compatiblities in a
 
 # Home page
 
-![Screenshot (1)](https://user-images.githubusercontent.com/79146129/164019282-3c67c74b-ec38-464e-b473-5b28f552b7fa.png)
+
 
 
 # Categories' section
 
-![Screenshot (5)](https://user-images.githubusercontent.com/79146129/164019367-678f6f7a-48bd-4faa-8161-10da3fbc4a20.png)
+
 
 
 # Products section
